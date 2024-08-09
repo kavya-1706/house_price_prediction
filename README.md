@@ -13,9 +13,7 @@ This project involved evaluating five different regression models to predict hou
 ## For running the ipynb file-
 1. Download the HousePricePrediction.ipynb file and the housing_prices.csv dataset.
 2. Install required Python packages:
-function test() {
-  console.log("pip install pandas scikit-learn matplotlib seaborn numpy scipy");
-}
+3.     pip install pandas scikit-learn matplotlib seaborn numpy scipy pickle
 4. Run the .ipynb file in Jupyter Notebook, ensuring that housing_prices.csv is in the same directory.
 
 ## For running the Flask app-
