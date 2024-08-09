@@ -11,19 +11,19 @@ This project involved evaluating five different regression models to predict hou
 ## Setup steps:
 
 ## For running the ipynb file-
-# Download the HousePricePrediction.ipynb file and the housing_prices.csv dataset.
-# Install required Python packages:
+### Download the HousePricePrediction.ipynb file and the housing_prices.csv dataset.
+### Install required Python packages:
     pip install pandas scikit-learn matplotlib seaborn numpy scipy pickle
-# Run the .ipynb file in Jupyter Notebook, ensuring that housing_prices.csv is in the same directory.
+### Run the .ipynb file in Jupyter Notebook, ensuring that housing_prices.csv is in the same directory.
 
 ## For running the Flask app-
-# Install required Python packages:
+### Install required Python packages:
     pip install Flask
     pip install pickle
-# Download the house_price_prediction_app folder, and open it in VSCode.
-# Open VSCode terminal and ensure that you are inside the house_price_prediction_app folder directory.
-# For deploying on a development server:
+### Download the house_price_prediction_app folder, and open it in VSCode.
+### Open VSCode terminal and ensure that you are inside the house_price_prediction_app folder directory.
+### For deploying on a development server:
     set FLASK_APP=app.py
     flask run
-# This opens up a development server on http://127.0.0.1:5000 , which can be opened up on your browser.
+### This opens up a development server on http://127.0.0.1:5000 , which can be opened up on your browser.
 
