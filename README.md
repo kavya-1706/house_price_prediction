@@ -1,5 +1,5 @@
 # House Price Prediction- Machine Learning- Regression technique
-Created by- Kavya Anil
+Created by- Kavya Anil (anilkavya266@gmail.com)
 ## Project Description:
 This project involved evaluating five different regression models to predict house prices. The K-Nearest Neighbors (KNN) model demonstrated the highest performance among the tested models. Subsequently, the KNN model was integrated into a Flask application, enabling real-time predictions and a user-friendly interface for interacting with the predictive model.
 
