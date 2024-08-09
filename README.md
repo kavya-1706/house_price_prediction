@@ -20,13 +20,13 @@ This project involved evaluating five different regression models to predict hou
 ## For running the Flask app-
 ### 1. Install required Python packages:
     pip install Flask
-    
+###
     pip install pickle
 ### 2. Download the house_price_prediction_app folder, and open it in VSCode.
 ### 3. Open VSCode terminal and ensure that you are inside the house_price_prediction_app folder directory.
 ### 4. For deploying on a development server:
     set FLASK_APP=app.py
-    
+###    
     flask run
 ### 5. This opens up a development server on http://127.0.0.1:5000 , which can be opened up on your browser.
 
